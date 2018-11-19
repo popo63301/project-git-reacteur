@@ -1,0 +1,22 @@
+{
+  "name": "project-git-reacteur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popo63301/project-git-reacteur.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popo63301/project-git-reacteur/issues"
+  },
+  "homepage": "https://github.com/popo63301/project-git-reacteur#readme",
+  "dependencies": {
+    "react": "^16.6.3"
+  }
+}
